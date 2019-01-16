@@ -82,8 +82,8 @@ def adding_matz
         }
      }
 
-    programmer_hash[:newhash] = "vicky"
-     programmer_hash[:newhash]
+    programmer_hash[:newhash] = {:known_for =>"javascript", :languages =>"C"}
+     programmer_hash
 end
 
 def changing_alan
