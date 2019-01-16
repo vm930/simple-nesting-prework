@@ -82,7 +82,7 @@ def adding_matz
         }
      }
 
-    programmer_hash[:newhash] ={}
+    programmer_hash[:newhash] = "vicky"
     puts programmer_hash[:newhash]
 end
 
